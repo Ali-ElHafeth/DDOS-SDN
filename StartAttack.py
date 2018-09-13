@@ -21,7 +21,7 @@ os.system("figlet SD Attacker")
 print
 print "Coded   : Ali-Elhafeth"
 print "github   : https://github.com/SeCretSDN"
-print "Team    : World-BlackHaT Sudan
+print "Team    : World-BlackHaT Sudan"
 print
 ip = raw_input("Enter IP Target : ")
 port = input("Port       : ")
