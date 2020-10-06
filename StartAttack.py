@@ -51,7 +51,7 @@ print("                     & & & & & & & & & & & & & & & &")
 
 print(W)
 
-print(" -----[C] 2018------|| BlackHaT Sudan || - Member Of SeCretSDN||")
+print(" -----[C] 2018------|| BlackHaT Sudan || - Member Of ZeroDayTeam||")
 print
 ip = raw_input("Enter IP  : ")
 port = input("Enter Port       : ")
